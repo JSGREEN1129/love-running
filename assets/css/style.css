@@ -1,0 +1,21 @@
+/* Asterisk wildcard selecter */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+header {
+    background-color: blue;
+}
+
+/* Main Content */
+main {
+    background-color: red;
+}
+
+/* Footer Content */
+footer {
+    background-color: green;
+}
