@@ -155,7 +155,7 @@ nav {
 
 /* Main Content */
 main {
-    background-color: red;
+    background-color: lightblue;
     /* Main element to take up all surplus space */
     flex: 1 0 auto;
     margin-top: 47px;
@@ -163,7 +163,7 @@ main {
 
 /* Footer Content */
 footer {
-    background-color: green;
+    background-color: orange;
 }
 
 /* Media query for tablets and larger 768px */
