@@ -4,7 +4,6 @@
 
 .oswald {
     font-family: "Oswald", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 450;
     font-style: normal;
 }
@@ -155,8 +154,6 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
-
-
 
 /* Main content */
 main {
